@@ -45,37 +45,37 @@ XTerm*jumpScroll: true
 
 ! special
 *.foreground:	#00cd00
-*.background:	#000000
+*.background:	#282a36
 *.cursorColor:	#00cd00
 
 ! black
-*.color0:	#073642
-*.color8:	#002b36
+*.color0:	#282a2e
+*.color8:	#373b41
 
 ! red
-*.color1		#bdb76b
-*.color9		#8b0000
+*.color1	#bdb76b
+*.color9	#8b0000
 
 ! green
-*.color2		#859900
+*.color2	#859900
 *.color10	#00ff00
 
 ! yellow
-*.color3		#b58900
+*.color3	#b58900
 *.color11	#657b83
 
 ! blue
-*.color4		#ffd700
+*.color4	#ffd700
 *.color12	#6c71c4
 
 ! magenta
-*.color5		#d33682
+*.color5	#d33682
 *.color13	#93a1a1
 
 ! cyan
-*.color6		#2aa198
+*.color6	#2aa198
 *.color14	#93a1a1
 
 ! white
-*.color7		#eee8d5
+*.color7	#eee8d5
 *.color15	#fdf6e3
