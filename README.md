@@ -4,8 +4,10 @@
 
 This is my simple TinyCoreLinux configuration file for my own use
 
-.Xdefault (hidden file) export path is ~/, this file is the configuration file of Aterm terminal    
-The export path of opt (folder) is the root directory (/), and the files inside are bootlocal.sh (startup item), bootsync.sh (startup item), tcemirror (software source address), tcemirror.bak (alternative software) Source address), background folder (wallpaper folder), shutdown.sh (shutdown project and configuration)    
+- .Xdefault (hidden file) export path is ~/, this file is the configuration file of Aterm terminal    
+- The export path of opt (folder) is the root directory (/), and the files inside are bootlocal.sh (startup item), bootsync.sh (startup item), tcemirror (software source address), tcemirror.bak (alternative software) Source address), background folder (wallpaper folder), shutdown.sh (shutdown project and configuration)    
+
+Please follow this path to return
 
 Both tcemirror and tcemirror.bak are domestic software source addresses.
 
@@ -14,8 +16,6 @@ My modification:
 - 2. Terminal color, text, copy and paste.    
 
 Because I am still a novice, I only understand these at the moment.
-
-Please follow this path to return
 
 This is my study and use.
 
@@ -39,8 +39,10 @@ This is only for personal learning and testing. Please delete it within 24 hours
 
 这我自用的简单TinyCoreLinux配置文件
 
-.Xdefault(隐藏文件)导出路径为~/，此文件是Aterm终端的配置文件    
-opt（文件夹）导出路径为根目录（/），里面的文件分别为bootlocal.sh（开机启动项）、bootsync.sh（开机启动项）、tcemirror（软件源地址）、tcemirror.bak（备用软件源地址）、background文件夹（壁纸文件夹）、shutdown.sh（关机项目及配置）    
+- .Xdefault(隐藏文件)导出路径为~/，此文件是Aterm终端的配置文件    
+- opt（文件夹）导出路径为根目录（/），里面的文件分别为bootlocal.sh（开机启动项）、bootsync.sh（开机启动项）、tcemirror（软件源地址）、tcemirror.bak（备用软件源地址）、background文件夹（壁纸文件夹）、shutdown.sh（关机项目及配置）    
+
+请按照此路径返还
 
 tcemirror和tcemirror.bak这两个都是国内软件源地址。
 
@@ -49,8 +51,6 @@ tcemirror和tcemirror.bak这两个都是国内软件源地址。
 - 2、终端颜色、文字、复制粘贴。    
 
 因为我还是新手，目前仅了解这些。
-
-请按照此路径返还
 
 此为本人学习使用。
 
