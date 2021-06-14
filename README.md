@@ -9,7 +9,7 @@ This is my simple TinyCoreLinux configuration file for my own use
 
 Please follow this path to return
 
-Both tcemirror and tcemirror.bak are domestic software source addresses.
+> Both tcemirror and tcemirror.bak are domestic software source addresses.
 
 My modification:    
 - 1. The tce=sda1 command has been added to bootlocal.sh so that the software is installed on the disk instead of the memory.    
@@ -44,7 +44,7 @@ This is only for personal learning and testing. Please delete it within 24 hours
 
 请按照此路径返还
 
-tcemirror和tcemirror.bak这两个都是国内软件源地址。
+> tcemirror和tcemirror.bak这两个都是国内软件源地址。
 
 我的修改：    
 - 1、bootlocal.sh中添加了tce=sda1命令使得软件安装在磁盘而不是内存上。    
