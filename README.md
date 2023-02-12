@@ -1,5 +1,11 @@
 # `TinyCoreLinux`-`Config`
 
+------
+
+[![Security Status](https://s.murphysec.com/badge/jidro/TinyCoreLinux-Config.svg)](https://www.murphysec.com/p/jidro/TinyCoreLinux-Config)
+
+------
+
 ## 中文说明
 
 这我自用的简单`TinyCoreLinux`配置文件    </br>
